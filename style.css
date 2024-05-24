@@ -1,0 +1,15 @@
+.bob{
+    display: flex;
+}
+
+img {
+    border: solid 2px rgb(233, 34, 233);
+    box-shadow: 10px 10px 5px plum;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
